@@ -1,3 +1,8 @@
+# 重要
+https://github.com/multidots/cakephp-rest-api 
+がなくなってしまったので、クローンして利用しています。
+ZIPファイルをソース配下に設置するのがベターです。
+
 # RestApi plugin for CakePHP 3
 
 [![Build Status](https://travis-ci.org/multidots/cakephp-rest-api.svg?branch=master)](https://travis-ci.org/multidots/cakephp-rest-api)
